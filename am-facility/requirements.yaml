@@ -1,0 +1,19 @@
+packages:
+  "framer-motion": "For page transitions and scroll-triggered animations"
+  "clsx": "For constructing dynamic className strings"
+  "tailwind-merge": "For merging tailwind classes safely"
+
+images:
+  - path: "artifacts/am-facility/public/images/hero-bg.png"
+    description: "Abstract gradient mesh background in deep navy and steel blue with soft light leaks, enterprise corporate feel, premium aesthetic"
+    aspect_ratio: "16:9"
+  - path: "artifacts/am-facility/public/images/problem-texture.png"
+    description: "Subtle dark industrial operational texture, minimal lighting, deep navy background, highly abstract"
+    aspect_ratio: "16:9"
+  - path: "artifacts/am-facility/public/images/cta-bg.png"
+    description: "Dark geometric corporate pattern in deep blue and charcoal, subtle tech and operational texture"
+    aspect_ratio: "16:9"
+
+notes:
+  - Single page marketing site, relying heavily on smooth scrolling.
+  - Using framer-motion for premium reveal animations.
